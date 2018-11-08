@@ -1,4 +1,4 @@
-# 01| Molly & Me Pecans
+# 02| Molly & Me Pecans
 
 Deuxième exercice HTML & CSS.
 
