@@ -1,5 +1,5 @@
-# 02| Molly & Me Pecans
+# 01| Mexico
 
-Deuxième exercice HTML & CSS.
+Premier exercice HTML & CSS.
 
-[Aperçu](https://bruxellesformationcepegra.github.io/02_molly/)
+[Aperçu](https://bruxellesformationcepegra.github.io/01_mexico/)
